@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm  Sai Tadikonda!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm  Pavan Karthik Garaga!
   
 <img align="right"  src="https://komarev.com/ghpvc/?username=PavanKarthikGaraga&label=Visitors%20&color=blue&style=flat" alt="PavanKarthikGaraga" /> </p>
      
