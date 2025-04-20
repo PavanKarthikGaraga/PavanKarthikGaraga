@@ -2,10 +2,6 @@
   
 <img align="right"  src="https://komarev.com/ghpvc/?username=PavanKarthikGaraga&label=Visitors%20&color=blue&style=flat" alt="PavanKarthikGaraga" /> </p>
      
-### [Connect with me 💬](https://linktr.ee/saitadikonda)
+### [Connect with me 💬](https://linktr.ee/pavankarthik)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PavanKarthikGaraga&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/PavanKarthikGaraga)
-
-![Pavan Karthik Garaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKarthikGaraga&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKarthikGaraga&layout=compact)](https://github.com/PavanKarthikGaraga)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKarthikGaraga&layout=compact)](https://github.com/PavanKarthikGaraga)                             ![Pavan Karthik Garaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKarthikGaraga&show_icons=true)
