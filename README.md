@@ -1,25 +1,11 @@
-# Hi 👋, I'm Pavan Karthik
-
-### A passionate Full Stack Developer from India 🌍
-
-### 🌱 Currently learning:
-- Advanced Node.js & Express.js
-- Cloud Infrastructure with AWS/GCP
-- Microservices Architecture
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm  Sai Tadikonda!
   
-### 📊 GitHub Stats:
+<img align="right"  src="https://komarev.com/ghpvc/?username=PavanKarthikGaraga&label=Visitors%20&color=blue&style=flat" alt="PavanKarthikGaraga" /> </p>
+     
+### [Connect with me 💬](https://linktr.ee/saitadikonda)
 
-<div style="display: flex; justify-content: space-between; width="100%">
+[![GitHub Streak](https://streak-stats.demolab.com?user=PavanKarthikGaraga&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/PavanKarthikGaraga)
 
-  <!-- GitHub Stats -->
-  <div style="flex: 1; padding: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavankarthikgaraga&show_icons=true&locale=en&theme=dark&hide_border=true" />
-  </div>
+![Pavan Karthik Garaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKarthikGaraga&show_icons=true)
 
-  <!-- Top Languages -->
-  <div style="flex: 1; padding: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankarthikgaraga&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" />
-  </div>
-</div>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKarthikGaraga&layout=compact)](https://github.com/PavanKarthikGaraga)
